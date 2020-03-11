@@ -1,0 +1,4 @@
+To Fix:
+
+- deleting first character in line throws a segmentation fault
+- Impossible to delete last character in line
